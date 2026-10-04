@@ -1,6 +1,6 @@
 # Walking Oxford scripts
 
-[View the map preview](walking-oxford.png)
+![Walking Oxford map](walking-oxford.png)
 
 I walked every public road inside the ring road of Oxford, UK, tracking my walks on my phone. It took 76 walks covering about 601 km of unique roads and paths. Including repeats, I covered over 690 km. 
 
